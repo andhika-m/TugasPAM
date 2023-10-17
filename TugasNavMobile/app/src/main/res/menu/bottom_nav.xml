@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Telusuri"
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"/>
+    <item android:title="Favorit"
+        android:id="@+id/favorite"
+        android:icon="@drawable/baseline_favorite_border_24"/>
+    <item android:title="Perjalanan"
+        android:id="@+id/journey"
+        android:icon="@drawable/baseline_navigation_24"/>
+    <item android:title="Kotak Masuk"
+        android:id="@+id/message"
+        android:icon="@drawable/baseline_message_24"/>
+    <item android:title="Profil"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_outline_24"/>
+</menu>
